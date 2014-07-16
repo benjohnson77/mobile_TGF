@@ -1,0 +1,53 @@
+
+.list-group-item {
+	padding:5px !important;
+}
+.navbar-brand {
+	background: url(../images/logo.png) #fff no-repeat !important;
+	min-width: 250px;
+	max-width: 300px;
+			-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+	background-size: cover;
+}
+
+.navbar i{
+	font-size: 30px;
+}
+
+#destinations a {
+	padding: 0px;
+	line-height: 25px;
+	display: inline;
+	font-size: 24px;
+}
+
+#destinations i {
+	font-size: 24px;
+}
+
+.dest-heading {
+	margin: 0;
+	display: inline;
+}
+
+#destinations img{
+	width:40%;
+	padding: 0px 10px 0px 0px; 
+}
+
+.check-button {	
+	height: 100%;
+	vertical-align: middle !important;
+	font-size: 25px;
+	border: 0;
+	background: transparent;	
+}
+
+.width-fix {
+    min-width: 52px !important;
+}
+
+
+
